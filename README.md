@@ -1,29 +1,10 @@
 # Expense Tracker (MERN)
 
-Full stack expense tracker
+AUTHOR NAME - SAMEER DHANDE
 
-Usage
-npm install
-cd client npm install
-cd ..
-
-### Run front and backend
-
-npm run dev
-
-### Backend only
-
-npm run server
-
-### Frontend only
-
-npm run client
-
-### Build client
-
-cd client
-npm run build
-
-### Prod
-
-npm start
+<h3>Technologies Used: </h3>
+<ol>JavaScript</ol>
+<ol>NodeJS</ol>
+<ol>ExpressJS</ol>
+<ol>ReactJS</ol>
+<ol>MongoDB</ol>
