@@ -1,4 +1,4 @@
-# Expense Tracker (MERN)
+# Intelligent Personal Finance Tracker
 
 AUTHOR NAME - SAMEER DHANDE
 
