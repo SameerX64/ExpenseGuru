@@ -1,4 +1,4 @@
-# Intelligent Personal Finance Tracker
+# ExpenseGuru - Intelligent Personal Finance Tracker
 
 AUTHOR NAME - SAMEER DHANDE
 
